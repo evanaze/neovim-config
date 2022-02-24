@@ -3,7 +3,7 @@ call plug#begin('~/.local/share/nvim/plugged')
 Plug 'itchyny/lightline.vim'                            " Light line
 Plug 'scrooloose/nerdtree'  	                        " Classic nerdtree
 Plug 'kevinhwang91/rnvimr', {'do': 'make sync'}         " Ranger
-Plug 'w0ng/vim-hybrid'  	                            " Colorscheme
+Plug 'altercation/vim-colors-solarized'  	            " Colorscheme
 " Ease of use
 Plug 'tpope/vim-surround'                               " Surroundings package
 Plug 'jiangmiao/auto-pairs' 	                        " Auto quote completion

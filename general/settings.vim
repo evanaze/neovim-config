@@ -2,7 +2,7 @@
 let g:mapleader = "\<Space>"
 
 syntax enable                           " Enables syntax highlighing
-colorscheme hybrid                      " Define colorscheme
+colorscheme solarized                   " Define colorscheme
 set notermguicolors		                " no term colors for URxvt
 set hidden                              " Required to keep multiple buffers open multiple buffers
 set nowrap                              " Display long lines as just one line
